@@ -70,6 +70,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to Know the Author
+
 **Ritesh Modi**
 Is a technologist with more than 18 years of experience. He holds a master's degree in science in AI/ML from LJMU. He has been recognized as a Microsoft Regional Director for his contributions to building tech communities, products, and services. He has published more than 10 tech books in the past and is a cloud architect, speaker, and leader who is popular for his contributions to data centers, Azure, Kubernetes, blockchain, cognitive services, DevOps, AI, and automation.
 
